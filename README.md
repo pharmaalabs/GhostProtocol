@@ -9,8 +9,8 @@ This is a full-stack decentralized application (DApp) consisting of two main par
 
 ## 📦 Project Structure
 
-├── smart-contracts # Solidity smart contracts and deployment scripts
-└── frontend # Web application to interact with the smart contracts
+1. smart-contracts # Solidity smart contracts and deployment scripts
+2. frontend # Web application to interact with the smart contracts
 
 ## Smart contract setup
 
