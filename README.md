@@ -14,10 +14,10 @@ This is a full-stack decentralized application (DApp) consisting of two main par
 
 ## Smart contract setup
 
-cd smart-contracts
-Follow the Readme.md steps
+1. cd smart-contracts
+2. Follow the Readme.md steps
 
 ## Frontend setup
 
-cd frontend
-Follow the Readme.md steps
+1. cd frontend
+2. Follow the Readme.md steps
